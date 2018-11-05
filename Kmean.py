@@ -1,5 +1,3 @@
-#Taken from https://datasciencelab.wordpress.com/2013/12/12/clustering-with-k-means-in-python/
-# Just added plotting for 3-k cases
 
 import numpy as np
 import random

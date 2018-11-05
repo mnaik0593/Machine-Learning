@@ -1,3 +1,4 @@
 # machine-learning
 Working on machine-learning algorithms
-my first branch
+K-mean:
+This is the basic clustering algorithm created to test how the k-mean clustering works.
